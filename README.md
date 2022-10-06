@@ -5,7 +5,7 @@
 
 ## About The Project
 
-This is a GitHub repository for a research project that helps to identify candidate cooling center locations to help expand heat relief in metro Tucson and metro PHoenix, Arizona. You can read more about the project in our latest paper: 
+This is a GitHub repository for a research project that helps to identify candidate cooling center locations to help expand heat relief in metro Tucson and metro Phoenix, Arizona. You can read more about the project in our latest paper: 
 
 ## Getting Started
 
@@ -33,6 +33,6 @@ Distributed under the GNU 3.0 License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Erika Austhof - [\@epierika](https://twitter.com/epierika) - [erika\@aengleconsulting.com](mailto:erika@aengleconsulting.com){.email}
+Erika Austhof - [\@epierika](https://twitter.com/epierika) - [barrette\@arizona.edu](mailto:barrette@arizona.edu)
 
 Project Link: <https://github.com/austhofe/AZBRACESpatialOp>
